@@ -1,0 +1,1 @@
+I did understand the code, and I really liked that throughout the section, Jordan shows that with very little code, you can have a more detailed error response to understand where your error is, and even have it coded to the error_log.txt. I do want to see it implemented more just to solidify my understanding, but I understood and enjoyed the lesson.
